@@ -1,0 +1,27 @@
+NutriTrack v10.8 — Biblioteca Brasileira\n\nInclui 62 alimentos comuns brasileiros por padrão, disponíveis offline. Valores nutricionais aproximados por 100 g, não atribuídos à TACO. A base TACO comunitária continua disponível para importações adicionais com internet.\n\nAtualize TODOS os arquivos da hospedagem, incluindo foods-default.js. Exporte backup antes da atualização. Dados locais existentes são preservados e a biblioteca padrão é adicionada sem apagar seus alimentos.\n\nAtualização v10.8.1: botões de refeição alinhados; quantidade em g ou ml. Conversão provisória de ml para gramas usa 1:1 (densidade de água), com aviso na interface. O valor e a unidade originais ficam registrados.\n\nv10.8.2: oculta identificadores técnicos de refeições; histórico agrupado e paginado (5 refeições por página), preservando exclusão individual; biblioteca, TACO e cadastro personalizados recolhidos inicialmente.\n
+v10.8.3: Histórico alimentar mostra somente a refeição mais recente; navegação Anterior/Próxima para acessar as demais. Refeições na mesma data usam a ordem de inserção como desempate.
+
+v10.8.4: última refeição em destaque; anteriores recolhidas e carregadas 5 por vez; resumo nutricional por refeição; edição de quantidade de alimento no histórico; carimbo de horário para novas refeições. Histórico antigo sem horário permanece ordenado por data e sequência de registro.
+
+v10.8.5: busca e seleção unificadas; sugestões só ao focar; até 5 alimentos mais utilizados (ou sugestões iniciais); refeições em ordem cronológica com lanches da manhã e tarde.
+
+
+v10.8.6: seletor Refeição simplificado: Café da manhã, Almoço, Café da tarde, Jantar, Lanche. Histórico de categorias anteriores preservado.
+
+
+v10.8.9 — Refinamento de Interface: histórico em cartões recolhidos individualmente (5 por vez); Metas e Perfil com informações pessoais recolhidas e evolução corporal preservada; seletor de data mais compacto, navegação por setas no resumo e filtro limpo no histórico.
+
+
+v10.8.9: Rolagem horizontal suave nas abas em telas pequenas; a aba ativa entra automaticamente na área visível.
+
+
+NutriTrack v11.0 — Experiência Mobile
+- Cinco abas: Resumo, Refeições, Metas, Alimentos, Perfil.
+- Navegação inferior fixa no celular e superior no desktop.
+- Botão de salvar refeição abaixo da montagem.
+- Perfil reúne informações pessoais, evolução corporal, backup, instalação e ajuda.
+- Os dados físicos permanecem associados ao formulário original de metas, mantendo a mesma persistência.
+- Nenhuma mudança no formato de dados, na biblioteca alimentar ou na lógica nutricional.
+
+
+v11.0.1 — Saudação e data no cabeçalho apenas em Resumo; status só aparece offline; número de versão em Perfil > Ajuda e informações.
